@@ -21,22 +21,22 @@
 *这里展示了由程序自动生成的关键分析结果图，直观呈现数据洞察。*
 
 ### 1. 词云图 (Word Cloud)
-![词云图](./assets/词云图.png)
+![词云图](./image/词云图.png)
 
 ### 2. 词语共现分析 (Word Co-occurrence Analysis)
-![词语共现分析](./assets/词语共现分析.png)
+![词语共现分析](./image/词语共现分析.png)
 
 ### 3. 情感分数分布 (Sentiment Score Distribution)
-![情感分数分布](./assets/情感分数分布.png)
+![情感分数分布](./image/情感分数分布.png)
 
 ### 4. 评论长度 vs 情感分数 (Review Length vs. Sentiment Score)
-![评论长度vs情感分数](./assets/评论长度vs情感分数.png)
+![评论长度vs情感分数](./image评论长度vs情感分数.png)
 
 ### 5. 主题分布热力图 (Topic Distribution Heatmap)
-![主题分布热力图](./assets/主题分布热力图.png)
+![主题分布热力图](./image/主题分布热力图.png)
 
 ### 6. 项目结构框架图 (Project Structure Diagram)
-![项目结构框架图](./assets/项目结构框架图.png)
+![项目结构框架图](./image/项目结构框架图.png)
 
 ## 🚀 如何开始 (Getting Started)
 
