@@ -21,42 +21,22 @@
 *这里展示了由程序自动生成的关键分析结果图，直观呈现数据洞察。*
 
 ### 1. 词云图 (Word Cloud)
-直观展示酒店评论中出现频率最高的词语，快速把握用户关注焦点。
-
 ![词云图](./assets/词云图.png)
-*(请将 `词云图.png` 替换为你实际的词云图文件名，例如 `word_cloud.png`)*
 
 ### 2. 词语共现分析 (Word Co-occurrence Analysis)
-通过网络图形式展现词语之间的关联性，揭示评论中经常一同出现的主题。
-
-![词语共现分析](./assets/assets/词语共现分析.png)
-*(请将 `词语共现分析.png` 替换为你实际的词语共现分析图文件名，例如 `co_occurrence_analysis.png`)*
+![词语共现分析](./assets/词语共现分析.png)
 
 ### 3. 情感分数分布 (Sentiment Score Distribution)
-展示酒店评论情感分数的整体分布情况，了解用户评价的积极/消极倾向。
-
 ![情感分数分布](./assets/情感分数分布.png)
-*(请将 `情感分数分布.png` 替换为你实际的情感分数分布图文件名，例如 `sentiment_distribution.png`)*
 
 ### 4. 评论长度 vs 情感分数 (Review Length vs. Sentiment Score)
-分析评论长度与情感分数之间的关系，探索是否存在长评论更倾向于极端情感的趋势。
-
 ![评论长度vs情感分数](./assets/评论长度vs情感分数.png)
-*(请将 `评论长度vs情感分数.png` 替换为你实际的图文件名，例如 `length_vs_sentiment.png`)*
 
 ### 5. 主题分布热力图 (Topic Distribution Heatmap)
-如果你的项目进行了主题建模（如 LDA），此图可以展示评论在不同主题上的分布强度。
-
 ![主题分布热力图](./assets/主题分布热力图.png)
-*(请将 `主题分布热力图.png` 替换为你实际的图文件名，例如 `topic_heatmap.png`)*
 
-### 6. 项目结构框架图 (Project Structure Diagram - 可选)
-如果这是一个流程图或架构图，用于展示项目的内部组成或数据流。
-
+### 6. 项目结构框架图 (Project Structure Diagram)
 ![项目结构框架图](./assets/项目结构框架图.png)
-*(请将 `项目结构框架图.png` 替换为你实际的图文件名，例如 `project_structure.png`)*
-
----
 
 ## 🚀 如何开始 (Getting Started)
 
